@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="shortcut icon" href="./images/cerebro-memoria-problema-neurociencia-1476211117263_1920x1920.jpg" type="image/x-icon">
+    <title>Jogo da Memória</title>
+</head>
+
+<body>
+    <h1>Jogo da Memória</h1>
+    <h2>Insira seu nome, escolha a dificuldade e clique no botão "Iniciar Jogo"</h2>
+
+    <p>"Inicialmente, cada par encontrado vale 50 pontos, e a cada 15 segundos, o valor de novos pares irá diminuir 3 pontos!"</p>
+    <div class="player-name">
+        <label for="player-name">Nome do Jogador:</label>
+        <input type="text" id="player-name" placeholder="Nome"/>
+    </div>
+    <div id="game"></div>
+    <div id="game-board" class="board"></div>
+    <div id="player-score"><b>Sua pontuação aparecerá aqui ao iniciar</b></div>
+
+    <div id="controls">
+        <label for="difficulty">Nível de Dificuldade:</label>
+        <select id="difficulty">
+            <option value="fácil">Fácil</option>
+            <option value="difícil">Difícil</option>
+        </select>
+        <button id="restart">Iniciar Jogo</button>
+        <h3>Ranking:</h3>
+        <ul id="ranking-list"></ul>
+    </div>
+    
+    <script src="js/script.js"></script>
+</body>
+
+</html>
