@@ -1,6 +1,6 @@
 Licença MIT
 
-Copyright (c) [2025] [Wellington da  Costa Braga], [Mateus Martins Peres]
+Copyright (c) [2024] [Wellington da  Costa Braga], [Mateus Martins Peres]
 
 É concedida permissão, gratuita, a qualquer pessoa que obtenha uma cópia
 deste software e arquivos de documentação associados (o "Software"), para lidar
