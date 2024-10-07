@@ -25,3 +25,7 @@ https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6
 
 https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm 
 
+## Para colaborar com o projeto:
+```bash
+git clone https://github.com/Wellington-h07/Jogo-da-Mem-ria-JS.git
+
