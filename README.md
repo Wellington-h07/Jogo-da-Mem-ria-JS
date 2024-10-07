@@ -5,10 +5,10 @@ Wellington da Costa Braga e Mateus Martins Peres
 Este é um jogo da memória onde você pode jogar online pelo seu navegador.
 
 ## Ferramentas utilizadas:
-HTML: (HyperText Markup Language)
-CSS: (Cascading Style Sheets)
-JavaScript: Para permitir que cada função de interatividade funcione.
-Editor de Código: Foi utilizado o VS Code para editar o código.
+HTML: (HyperText Markup Language) 
+CSS: (Cascading Style Sheets) 
+JavaScript: Para permitir que cada função de interatividade funcione. 
+Editor de Código: Foi utilizado o VS Code para editar o código. 
 
 ## Como jogar:
 Para jogar, você deve colocar seu nome na caixa indicada, escolher entre as duas dificuldades (fácil e difícil) e clicar no botão de iniciar o jogo. Você terá que achar os pares, e o jogo finaliza após todos os pares serem encontrados.
